@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jerin Sigi
 
-<!--
-**jerin-s05/jerin-s05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Jerin Sigi, a student passionate about programming and web development.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: C++, C, JavaScript, PHP, SQL
+- **Web Technologies**: HTML, CSS, JS, PHP
+- **Database**: SQL
+
+## 🚀 Projects
+
+> _Add your projects here!_  
+> Example:
+> - Portfolio Website ([repo link](#))
+> - C++ Data Structures and Algorithms ([repo link](#))
+> - PHP & MySQL Web Application ([repo link](#))
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/jerin-sigi/)
+
+---
