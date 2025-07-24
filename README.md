@@ -8,14 +8,6 @@
 - **Web Technologies**: HTML, CSS, JS, PHP
 - **Database**: SQL
 
-## 🚀 Projects
-
-> _Add your projects here!_  
-> Example:
-> - Portfolio Website ([repo link](#))
-> - C++ Data Structures and Algorithms ([repo link](#))
-> - PHP & MySQL Web Application ([repo link](#))
-
 ## 📫 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/jerin-sigi/)
